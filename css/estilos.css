@@ -1,0 +1,107 @@
+*{
+    box-sizing:border-box;
+}
+
+html{
+    background-color: bisque;
+    font-family: 'Roboto Slab', serif;
+}
+
+header{
+    background-color:deeppink;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.fotoperfil{
+    border-radius: 100px;
+    border-style: solid;
+    border-color: white;
+    height: 180px;
+    width: 180px;
+    
+}
+
+.subtitulo{
+    background-color: deeppink;
+    font-size: 26px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.lista {
+    font-size: 22px;
+    font-weight: bold; 
+    margin-left: 130px;
+    margin-right: 130px;
+      
+}
+
+.lista li{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    
+}
+
+p{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: auto;
+}
+
+
+.informacion{
+    font-size: 22px;
+    list-style: none;
+    font-weight: bold;
+    margin-left: 130px;
+    margin-right: 130px;
+      
+}
+
+.informacion p{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: auto;
+
+}
+
+
+.piedepagina{
+    background-color: deeppink;
+    color: white;
+    border-radius: 15px;
+
+}
+
+#boton{
+    text-align: center;
+    color: deeppink;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 32px;
+    border-color: crimson;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+
+#sobremi{
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 25px;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-top: 5px;
+    padding: 18px;
+    
+
+} 
